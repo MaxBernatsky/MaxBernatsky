@@ -1,28 +1,24 @@
-# Hi there 👋 I'm Max
+# Привет всем, меня зовут Максим 👋
 
 ### React developer
 
-👨‍💻 **Frontend skills**:
+👨‍💻 **Мой стек**:
 
 - JavaScript/TypeScript
 - ReactJs
 - ReduxToolkit
-- NextJs
 - HTML
 - Css/Scss
-
-👨‍💻 **Backend skills**:
-
 - NodeJs
 - ExpressJs
 - MongoDB
 
-📩 **Contacts**:
+📩 **Контакты**:
 
-- telegram: @sate0n
-- mail: maxsateon@yandex.ru
+- телеграм: @sate0n
+- почта: maxsateon@yandex.ru
 
-# My activity
+# Моя статистика:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaxBernatsky)](https://git.io/streak-stats)
 
