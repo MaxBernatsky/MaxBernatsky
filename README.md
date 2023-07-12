@@ -6,9 +6,9 @@
 
 - JavaScript/TypeScript
 - ReactJs
-- ReduxToolkit
+- ReduxToolkit/Zustand
 - HTML
-- Css/Scss
+- Css/Scss/Styled-Components
 - NodeJs
 - ExpressJs
 - MongoDB
